@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/topetin/task-manager#readme",
   "dependencies": {
-    "mongodb": "^3.2.2"
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.20",
+    "validator": "^10.11.0"
   }
 }
